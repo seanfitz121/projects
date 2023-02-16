@@ -1,0 +1,13 @@
+    .login-register-text {
+        color:#113;
+        font-weight: 600;
+    }
+
+    .container {
+    width: 600px;
+    height: 600px;
+    background: #FFF;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,.3);
+    }
+    

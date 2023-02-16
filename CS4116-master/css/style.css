@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+  float: left;
+}
+
+    body {
+    background-color: #868c93;
+    }
+
+    .container1 {
+    width: 500px;
+    min-height: 500px;
+    background: #FFF;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,.3);
+    padding: 50px 50px;
+    margin-top: 20px;
+    margin:0 auto;
+    }
+
+    .container {
+    width: 400px;
+    min-height: 400px;
+    background: #FFF;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,.3);
+    padding: 50px 50px;
+    margin-top: 20px;
+    margin:0 auto;
+    }
