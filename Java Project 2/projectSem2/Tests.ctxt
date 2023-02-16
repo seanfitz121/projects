@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Tests
+comment1.params=filename\ shortest\ longest
+comment1.target=java.util.ArrayList\ loadGoodWords(java.lang.String,\ int,\ int)
+numComments=2

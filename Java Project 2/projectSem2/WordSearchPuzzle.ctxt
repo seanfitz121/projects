@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WordSearchPuzzle
+comment1.params=userSpecifiedWords
+comment1.target=WordSearchPuzzle(java.util.List)
+comment2.params=wordFile\ wordCount\ shortest\ longest
+comment2.target=WordSearchPuzzle(java.lang.String,\ int,\ int,\ int)
+comment3.params=filename\ shortest\ longest
+comment3.target=java.util.ArrayList\ loadGoodWords(java.lang.String,\ int,\ int)
+comment4.params=wordCount
+comment4.target=java.util.ArrayList\ betterWords(int)
+comment5.params=
+comment5.target=java.util.List\ getWordSearchList()
+comment6.params=wordCount
+comment6.target=int\ getDimensions(int)
+comment7.params=word\ puzzle
+comment7.target=void\ placeWord(java.lang.String,\ char[][])
+comment8.params=
+comment8.target=char[][]\ getPuzzleAsGrid()
+comment9.params=
+comment9.target=void\ generateWordSearchPuzzle()
+numComments=10
